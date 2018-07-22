@@ -1,3 +1,3 @@
 # Statistical_Sampling_Design
 
-Stratified &amp; Cluster Sampling Procedures and Analysis
+Stratification, Clustering, and Sampling Optimization Procedures and Analysis
